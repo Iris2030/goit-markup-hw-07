@@ -353,7 +353,8 @@ a {
   border-radius: 4px;
 }
 
-.policy-link {
+.policy__link {
+  text-decoration: underline;
   color: var(--accent-color);
 }
 
