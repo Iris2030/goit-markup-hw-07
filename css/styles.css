@@ -354,6 +354,7 @@ a {
 }
 
 .policy__link {
+  margin-left: 4px;
   text-decoration: underline;
   color: var(--accent-color);
 }
