@@ -1,0 +1,20 @@
+.container {
+  width: 1200px;
+  padding-right: 15px;
+  padding-left: 15px;
+  @extend %marginAuto;
+}
+
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
+.section__title {
+  margin-bottom: 50px;
+  color: $title-text-color;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+}
